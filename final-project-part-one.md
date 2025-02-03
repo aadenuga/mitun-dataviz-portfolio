@@ -8,7 +8,7 @@
  
 Climate change is reshaping our world, with one of its most visible and devastating effects being the increased frequency and intensity of natural disasters. This project aims to visualize and analyze the relationship between climate change and the occurrence of natural disasters, specifically focusing on hurricanes, wildfires, and floods over the past few decades.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Project Structure
 
 Exposition (Setting the Stage)
 Our story begins with a look at the Earth's climate over the past century. We introduce the audience to the concept of global temperature anomalies, showing how the planet has been warming, especially since the 1970s.
@@ -19,7 +19,7 @@ Rising Action (The Growing Threat)
 As temperatures rise, we start to see changes in natural disaster patterns. This section builds tension by revealing the increasing frequency and intensity of hurricanes, wildfires, and floods.
 - Visualizations:
   A stacked area chart showing the annual occurrence of hurricanes, major wildfires, and significant floods over the past 50 years.
-  Maps showing the expansion of areas affected by these disasters over time.
+  Maps show the expansion of areas affected by these disasters over time.
 
 Climax (The Climate Connection)
 The story reaches its peak as we reveal the stark correlation between climate change indicators and disaster patterns. This is the "aha" moment where the audience clearly sees the link between rising temperatures and intensifying natural disasters.
@@ -44,8 +44,11 @@ This data-driven story reveals the alarming increase in frequency and intensity 
 
 User Stories
 As a policymaker, I want to understand the relationship between climate change and natural disasters so that I can advocate for effective climate policies.
+
 As a concerned citizen, I want to see clear evidence of how climate change is affecting natural disasters so that I can make informed decisions about supporting climate action.
+
 As a student, I want to learn about the trends in different types of natural disasters so that I can better understand the complex impacts of climate change.
+
 As a community leader, I want to grasp the potential future scenarios of climate-related disasters so that I can help my community prepare and adapt.
 
 ## Initial sketches
